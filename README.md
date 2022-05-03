@@ -5,7 +5,7 @@ Nexus learning. Part of improving knowledge of CodeFirst approach of GraphQL
 Using Postgres - ApolloServer - GraphQL - Nexus - TypeScript
 
 <details>
-<summary>Docker Posgres</summary>
+<summary>Docker + Posgres</summary>
 ~/docker/docker-compose.yml contains a posgres image description.
 
 `docker-compose -f docker/docker-compose.yml up`
