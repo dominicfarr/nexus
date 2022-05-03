@@ -2,17 +2,27 @@
 
 Nexus learning. Part of improving knowledge of CodeFirst approach of GraphQL
 
-Using Postgres - ApolloServer - GraphQL - Nexus - TypeScript
+Stack: Postgres - ApolloServer - GraphQL - Nexus - Node - TypeScript
+
+## Install
 
 <details>
-<summary>Docker + Posgres</summary>
+<summary>Initialise project</summary>
+
+`npm init -y`
+
+`npm install`
+
+</details>
+<details>
+<summary>Install Prettier + esLint</summary>
+[How to](https://www.robinwieruch.de/prettier-eslint/)
+</details>
+
+<details>
+<summary>Install Docker + Posgres</summary>
 ~/docker/docker-compose.yml contains a posgres image description.
 
 `docker-compose -f docker/docker-compose.yml up`
 
-</details>
-
-<details>
-<summary>Prettier + esLint</summary>
-[How to](https://www.robinwieruch.de/prettier-eslint/)
 </details>
