@@ -1,0 +1,20 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "description": "Nexus learning. Part of improving knowledge of CodeFirst approach of GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicfarr/nexus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominicfarr/nexus/issues"
+  },
+  "homepage": "https://github.com/dominicfarr/nexus#readme"
+}
